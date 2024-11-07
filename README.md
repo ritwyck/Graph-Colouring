@@ -43,10 +43,7 @@ GraphPanel uses its inner class **MousePressListener** to listen to the players 
 Once the whole graph is coloured, with every click in GraphPanel, the current game mode's winning condition is checked. This depends on the respective game mode.
 **BitterEnd** uses the algorithms best colouring and compares it to the player's. If the player's number of colours used is the same or smaller, the player wins, and a win message is displayed.
 
-
---- add in explanations here ---
-
 All the components come together in the **GUI** which depending on which game mode is chosen calls the right methods. It also includes a neat interface that contains short instructions.
 
 
-This work was done by Group 29: Lisa Theis, Mateusz Zboś, ...
+This work was done by Group 29: Lisa Theis, Mateusz Zboś, Oliver van Sonsbeeck, Konrad Retzlaff and Ritwik Srivastava (@ritwyck)
