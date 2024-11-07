@@ -47,3 +47,4 @@ All the components come together in the **GUI** which depending on which game mo
 
 
 This work was done by Group 29: Lisa Theis, Mateusz Zboś, Oliver van Sonsbeeck, Konrad Retzlaff and Ritwik Srivastava (@ritwyck)
+For more accurate work distribution, refer to: https://github.com/UM-KEN1300/graph-colouring-group29_2022
