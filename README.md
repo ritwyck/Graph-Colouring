@@ -1,4 +1,3 @@
-Here's an improved version of the README file for your Graph Colouring Game:
 
 # Graph Colouring Game - Group 29
 
